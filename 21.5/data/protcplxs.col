@@ -1,0 +1,27 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Tim Holland
+#    Anamika Kothari
+#    Ingrid Keseler
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Yersinia pestis CO92
+# Database: ypes214092cyc
+# Version: 21.5
+# File Name: protcplxs.col
+# Date and time generated: October 25, 2017, 2:36:30
+#
+#	
+UNIQUE-ID	NAME	SUBUNIT-COMPOSITION
+ENTMULTI-CPLX	entmulti-cplx	
+CPLX-7946	vibriobactin synthase complex	
+ENTB-CPLX	EntB isochorismatase/aryl-carrier protein	
+CPLX-7944	<i>Vibrio cholerae</i> VibB protein	
+APO-ENTB	<i>apo</i>-EntB multimer	
