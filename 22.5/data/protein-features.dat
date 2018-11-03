@@ -1,0 +1,52 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Tim Holland
+#    Anamika Kothari
+#    Ingrid Keseler
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Yersinia pestis CO92
+# Database: ypes214092cyc
+# Version: 21.5
+# File Name: protein-features.dat
+# Date and time generated: October 25, 2017, 2:35:14
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ACCESSION-1
+#    ALTERNATE-SEQUENCE
+#    ATTACHED-GROUP
+#    CATALYTIC-ACTIVITY
+#    CITATIONS
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    FEATURE-COLOR
+#    FEATURE-OF
+#    HIDE-SLOT?
+#    HOMOLOGY-MOTIF
+#    INSTANCE-NAME-TEMPLATE
+#    LEFT-END-POSITION
+#    LINKAGE-TYPE
+#    MEMBER-SORT-FN
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    POSSIBLE-FEATURE-STATES
+#    RESIDUE-NUMBER
+#    RESIDUE-TYPE
+#    RIGHT-END-POSITION
+#    SYNONYMS
+#
+# The YPES214092 database contains no Protein-Features.

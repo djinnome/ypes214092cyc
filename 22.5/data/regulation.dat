@@ -1,0 +1,54 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Tim Holland
+#    Anamika Kothari
+#    Ingrid Keseler
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Yersinia pestis CO92
+# Database: ypes214092cyc
+# Version: 21.5
+# File Name: regulation.dat
+# Date and time generated: October 25, 2017, 2:35:15
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ACCESSORY-PROTEINS
+#    ANTI-ANTITERM-END-POS
+#    ANTI-ANTITERM-START-POS
+#    ANTITERMINATOR-END-POS
+#    ANTITERMINATOR-START-POS
+#    ASSOCIATED-BINDING-SITE
+#    ASSOCIATED-RNASE
+#    CITATIONS
+#    COMMENT
+#    CREDITS
+#    DATA-SOURCE
+#    DOCUMENTATION
+#    DOWNSTREAM-GENES-ONLY?
+#    GROWTH-CONDITIONS
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    KI
+#    MECHANISM
+#    MEMBER-SORT-FN
+#    MODE
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PAUSE-END-POS
+#    PAUSE-START-POS
+#    PHYSIOLOGICALLY-RELEVANT?
+#    REGULATED-ENTITY
+#    REGULATOR
+#    SYNONYMS
+#
+# The YPES214092 database contains no Regulation.

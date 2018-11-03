@@ -1,0 +1,45 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Tim Holland
+#    Anamika Kothari
+#    Ingrid Keseler
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Yersinia pestis CO92
+# Database: ypes214092cyc
+# Version: 21.5
+# File Name: dnabindsites.dat
+# Date and time generated: October 25, 2017, 2:36:27
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ABS-CENTER-POS
+#    CITATIONS
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    HIDE-SLOT?
+#    INSTANCE-NAME-TEMPLATE
+#    INVOLVED-IN-REGULATION
+#    LEFT-END-POSITION
+#    MEMBER-SORT-FN
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    RIGHT-END-POSITION
+#    SITE-LENGTH
+#    SYNONYMS
+#    UNMAPPED-COMPONENT-OF
+#
+# The YPES214092 database contains no DNA-Binding-Sites.

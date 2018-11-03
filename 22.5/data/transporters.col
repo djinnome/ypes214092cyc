@@ -1,0 +1,108 @@
+# 
+#
+# Authors:
+#    Pallavi Subhraveti
+#    Quang Ong
+#    Tim Holland
+#    Anamika Kothari
+#    Ingrid Keseler
+#    Ron Caspi
+#    Peter D Karp
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Yersinia pestis CO92
+# Database: ypes214092cyc
+# Version: 21.5
+# File Name: transporters.col
+# Date and time generated: October 25, 2017, 2:36:30
+#
+UNIQUE-ID	NAME	REACTION-EQUATION	SUBUNIT-COMPOSITION
+		4 H+[in]  <-->  4 H+[out]	
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-galactose[out]  <-->  a D-galactose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-D-cellobiose[out]  <-->  alpha-D-cellobiose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + sucrose[out]  <-->  a [PTS enzyme I]-L-histidine + sucrose 6-phosphate[in]	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-D-galactose[out]  <-->  alpha-D-galactose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-glucosaminate[out]  <-->  D-glucosaminate 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + aldehydo-D-galactose[out]  <-->  aldehydo-D-galactose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-chitobiose[out]  <-->  alpha-chitobiose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + L-sorbopyranose[out]  <-->  L-sorbopyranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-178-MONOMER	taurine transporter ATP-binding protein	taurine[out] + ATP + H2O  <-->  taurine[in] + ADP + phosphate + H+	1*GKDD-178-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + N-acetyl-beta-D-glucosamine[out]  <-->  N-acetyl-beta-D-glucosamine 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-D-glucose[out]  <-->  alpha-D-glucose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-2136-MONOMER	L-arabinose transporter ATP-binding protein	ATP + L-arabinose[out] + H2O  <-->  ADP + L-arabinose[in] + phosphate + H+	1*GKDD-2136-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + keto-D-fructose[out]  <-->  keto-D-fructose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-2552-MONOMER	potassium-transporting ATPase subunit C	ATP + K+[out] + H2O  <-->  ADP + K+[in] + phosphate + H+	1*GKDD-2552-MONOMER
+GKDD-2178-MONOMER	pyridine nucleotide transhydrogenase	NADP+ + NADH + H+[out]  <-->  NADPH + NAD+ + H+[in]	1*GKDD-2178-MONOMER
+GKDD-3650-MONOMER	zinc/cadmium/mercury/lead-transporting ATPase	Zn2+[in] + ATP + H2O  <-->  Zn2+[out] + ADP + phosphate + H+	1*GKDD-3650-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + maltose[out]  <-->  maltose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-2136-MONOMER	L-arabinose transporter ATP-binding protein	ATP + beta-D-ribopyranose[out] + H2O  <-->  ADP + beta-D-ribopyranose[in] + phosphate + H+	1*GKDD-2136-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha,alpha-trehalose[out]  <-->  alpha,alpha-trehalose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-178-MONOMER	taurine transporter ATP-binding protein	taurine[out] + ATP + H2O  <-->  taurine[in] + ADP + phosphate + H+	1*GKDD-178-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-D-fructopyranose[out]  <-->  alpha-D-fructopyranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-1089-MONOMER	molybdate transporter ATP-binding protein	ATP + molybdate[out] + H2O  <-->  ADP + molybdate[in] + phosphate + H+	1*GKDD-1089-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-L-sorbofuranose[out]  <-->  alpha-L-sorbofuranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-L-sorbofuranose[out]  <-->  beta-L-sorbofuranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-L-sorbopyranose[out]  <-->  beta-L-sorbopyranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + chitobiose[out]  <-->  chitobiose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + L-ascorbate[out]  <-->  L-ascorbate 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + N,N'-diacetylchitobiose[out]  <-->  N,N'-diacetylchitobiose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-fructofuranose[out]  <-->  D-fructofuranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-3650-MONOMER	zinc/cadmium/mercury/lead-transporting ATPase	Cd2+[in] + ATP + H2O  <-->  Cd2+[out] + ADP + phosphate + H+	1*GKDD-3650-MONOMER
+GKDD-2136-MONOMER	L-arabinose transporter ATP-binding protein	a monosaccharide[out] + ATP + H2O  <-->  a monosaccharide[in] + ADP + phosphate	1*GKDD-2136-MONOMER
+GKDD-260-MONOMER	type III secretion system ATPase	ATP + 3 H+[in] + H2O  <-->  ADP + phosphate + 4 H+[out]	1*GKDD-260-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	N-acetyl-D-muramate[out] + a [PTS enzyme I]-Npi-phospho-L-histidine  <-->  N-acetyl-beta-muramate 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-mannose[out]  <-->  D-mannose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-glucopyranose[out]  <-->  D-glucopyranose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-mannopyranose[out]  <-->  D-mannopyranose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + galactitol[out]  <-->  galactitol 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-sorbitol[out]  <-->  D-sorbitol 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-2296-MONOMER	vitamin B12-transporter ATPase	a vitamin B12[out] + ATP + H2O  <-->  a vitamin B12[in] + ADP + phosphate	1*GKDD-2296-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-maltose[out]  <-->  alpha-maltose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-D-glucose[out]  <-->  beta-D-glucose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-1089-MONOMER	molybdate transporter ATP-binding protein	molybdate[out] + ATP + H2O  <-->  molybdate[in] + ADP + phosphate + H+	1*GKDD-1089-MONOMER
+GKDD-2972-MONOMER	ammonium transporter	ammonium[out]  <-->  ammonium[in]	1*GKDD-2972-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + keto-L-sorbose[out]  <-->  keto-L-sorbose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-2931-MONOMER	ferric enterobactin transport protein FepE	ferric enterobactin complex[out]  <-->  ferric enterobactin complex[in]	1*GKDD-2931-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-D-mannose[out]  <-->  alpha-D-mannose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-cellobiose[out]  <-->  D-cellobiose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + aldehydo-D-glucose[out]  <-->  aldehydo-D-glucose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-fructose[out]  <-->  D-fructose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + N-acetyl-alpha-D-glucosamine[out]  <-->  N-acetyl-alpha-D-glucosamine 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-maltose[out]  <-->  beta-maltose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-1840-MONOMER	Na(+)-translocating NADH-quinone reductase subunit E	Na+[in] + NADH + a ubiquinone + H+  <-->  Na+[out] + NAD+ + an ubiquinol	1*GKDD-1840-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-D-fructofuranose[out]  <-->  alpha-D-fructofuranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-galactosamine[out]  <-->  D-galactosamine 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-D-mannose[out]  <-->  beta-D-mannose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-591-MONOMER	multidrug resistance protein MdtN	a xenobiotic[in] + ATP + H2O  <-->  a xenobiotic[out] + ADP + phosphate	1*GKDD-591-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-fructopyranose[out]  <-->  D-fructopyranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-2136-MONOMER	L-arabinose transporter ATP-binding protein	ATP + D-xylose[out] + H2O  <-->  ADP + D-xylose[in] + phosphate + H+	1*GKDD-2136-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-glucosamine[out]  <-->  D-glucosamine 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-2296-MONOMER	vitamin B12-transporter ATPase	ATP + cob(I)alamin[out] + H2O  <-->  ADP + cob(I)alamin[in] + phosphate + H+	1*GKDD-2296-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + N-acetyl-D-glucosamine[out]  <-->  N-acetyl-D-glucosamine 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+		arsenite[in] + ATP + H2O  <-->  arsenite[out] + ADP + phosphate + H+	
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + a sugar[out]  <-->  a [PTS enzyme I]-L-histidine + a sugar phosphate[in]	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-lactose[out]  <-->  beta-lactose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + N-acetyl-D-galactosamine[out]  <-->  N-acetyl-D-galactosamine 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + lactose[out]  <-->  lactose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-2136-MONOMER	L-arabinose transporter ATP-binding protein	ATP + beta-D-galactose[out] + H2O  <-->  ADP + beta-D-galactose[in] + phosphate + H+	1*GKDD-2136-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-chitobiose[out]  <-->  beta-chitobiose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-L-sorbopyranose[out]  <-->  alpha-L-sorbopyranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha-lactose[out]  <-->  alpha-lactose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-260-MONOMER	type III secretion system ATPase	ATP + 4 H+[in] + H2O  <-->  ADP + phosphate + 5 H+[out]	1*GKDD-260-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + L-sorbofuranose[out]  <-->  L-sorbofuranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-D-fructofuranose[out]  <-->  beta-D-fructofuranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + L-sorbose[out]  <-->  an L-sorbose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + 2-O-alpha-mannosyl-D-glycerate[out]  <-->  2-O-(6-phospho-alpha-D-mannosyl)-D-glycerate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-D-cellobiose[out]  <-->  beta-D-cellobiose 6'-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-2552-MONOMER	potassium-transporting ATPase subunit C	K+[out] + ATP + H2O  <-->  K+[in] + ADP + phosphate + H+	1*GKDD-2552-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + alpha,beta-trehalose[out]  <-->  alpha,beta-trehalose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-D-fructopyranose[out]  <-->  beta-D-fructopyranose 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-glucose[out]  <-->  D-glucose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-galactopyranose[out]  <-->  D-galactopyranose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + dihydroxyacetone[out]  <-->  dihydroxyacetone phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + trehalose[out]  <-->  D-trehalose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + beta-D-galactose[out]  <-->  beta-D-galactose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + aldehydo-D-mannose[out]  <-->  aldehydo-D-mannose 6-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
+GKDD-388-MONOMER	PTS system fructose-family transporter subunit IIB	a [PTS enzyme I]-Npi-phospho-L-histidine + D-mannitol[out]  <-->  D-mannitol 1-phosphate[in] + a [PTS enzyme I]-L-histidine	1*GKDD-388-MONOMER
